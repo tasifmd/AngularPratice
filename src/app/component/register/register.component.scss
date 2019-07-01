@@ -1,4 +1,4 @@
-@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+//@import "~@angular/material/prebuilt-themes/indigo-pink.css";
 
 .container{
     display: flex;
@@ -8,5 +8,10 @@
 .registercard{
     display: flex;
     background-color: darkgrey;
+    justify-content: center;
+    margin-top: 10%
+}
+.cardcontaint{
+    display: flex;
     justify-content: center;
 }
